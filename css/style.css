@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+.navbar {
+  background-color: #5f8404;
+}
+
+.quem-somos {
+  background-color: aqua;
+}
+.parceiros {
+  background-color: cornflowerblue;
+}
+.servicos {
+  background-color: bisque;
+}
+
+.margin {
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.rodape {
+  background-color: black;
+  color: white;
+}
